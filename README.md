@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Employee Management System (EMS) - Production Ready
 
 A complete, enterprise-grade Employee Management System built with React, Node.js, Express, and MySQL. This system is production-ready and follows industry best practices for security, performance, and scalability.
@@ -572,3 +573,6 @@ For issues, feature requests, or contributions, please create an issue or pull r
 ---
 
 **Made with ❤️ - Production Ready Employee Management System**
+=======
+# ems-production
+>>>>>>> da5f7d730a2a213223ccd1c147082964190e918f
